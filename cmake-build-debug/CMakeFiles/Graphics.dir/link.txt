@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Graphics.dir/main.cpp.o  -o Graphics  -lGL -lGLEW -lsfml-window -lsfml-graphics -lsfml-system -lsfml-audio 
